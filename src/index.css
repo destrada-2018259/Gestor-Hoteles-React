@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun:wght@700&display=swap');
+*{
+  margin: 0;
+}
+body{
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 80px;
+}
+.header{
+  font-family: 'Reem Kufi Fun', sans-serif;
+  color: rgb(127, 253, 169);
+  font-size: 2.5rem;
+  margin-left: 10%;
+  font-weight: bold;
+}
+
+.navbarTh{
+ color: white;
+}
+
+.menuTH{
+  margin-left: 50%;
+  margin-right: 20%;
+}
+.navLink{
+  color:white;
+  font-size: 1.5rem;
+  border-radius: 15px;
+  font-family: 'Reem Kufi Fun', sans-serif;
+}
+
+.navLink:hover{
+  background-color: white;
+}
+
+.slider-image{
+  height: 1080px;
+  width: 1920px;
+  opacity: 0.9;
+  filter: brightness(80%);
+}
+.title-slider{
+  font-family: 'Reem Kufi Fun', sans-serif;
+  color:rgb(255, 255, 255);
+  font-size: 3.5rem;
+}
+.text-slider{
+  color:rgb(255, 255, 255);
+  font-size: 1.5rem;
+  font-family: 'Reem Kufi Fun', sans-serif;
+}
+
+.form-label{
+  font-size: 3rem;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  font-weight: bold;
+}
+
+.submitbutton{
+  margin-top: 80px;
+  height: 60px;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.inputForm{
+  height: 60px;
+  font-size: 1.5rem;
+}
+
+.formcontainer{
+  padding-top: 100px;
+}
+
+.footerTH{
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  align-content: center;
+  color: white;
+  height: 80px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  position: absolute ;
+  bottom: 0;
+}
+.registerbutton{
+  margin-top: 10px;
+  height: 60px;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+}
+.registertext{
+  color: rgb(58, 117, 78);
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Reem Kufi Fun', sans-serif;
+}
+
+.tablaHoteles{
+  padding-top: 200px;
+}
+
+.table-header{
+    background-color: rgb(127, 253, 169);
+    font-size: 2rem;
+    font-family: 'Reem Kufi Fun', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    border: solid;
+    border-color: black;
+}
+.table-content{
+  font-size: 1rem;
+  border: solid;
+  border-color: black;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  text-align: center;
+}
+.navBarUserLink{
+  color:white;
+  font-size: 1.3rem;
+  border-radius: 15px;
+  font-family: 'Reem Kufi Fun', sans-serif;
+}
+.headerUser{
+  color: white;
+  font-size: 1.5rem;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  font-weight: bold;
+}
+.btn-delete{
+  margin-top: 20px;
+  height: 60px;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.header-myacc{
+  font-family: 'Reem Kufi Fun', sans-serif;
+  font-weight: bold;
+  font-size: 4rem;
+  color:rgb(58, 117, 78);
+  text-align: center;
+  margin-top: 40px;
+  
+}
